@@ -1,2 +1,2 @@
-# profile
-Welcome! This is my profile.
+# Welcome to my profile!
+WIP
