@@ -3,7 +3,7 @@
 # Not4spect
 
 <p align="center">
-  <img src="profile_picture.jpg" alt="Profile Picture" width="200" height="200">
+  <img src="discord-avatar-512-NCO9I.gif" alt="Profile Picture" width="200" height="200">
 </p>
 
 ## About Me
