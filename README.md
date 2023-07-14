@@ -18,6 +18,8 @@
 
 🌐 **Web Development**: I am currently learning how to create websites using HTML and PHP.
 
+👨‍💻 **Minecraft Development**: I enjoy creating skripts for servers, and will be releasing a collection soon!
+
 ## Current Projects
 
 🔍 **Joint Utilities**: Joint Utilities is a public multi-purpose discord bot. You can find the invite link on my [Carrd](https://not4spect.carrd.co).
