@@ -14,10 +14,6 @@
 
 💻 **Programming**: I enjoy programming in Python, JavaScript, and also Skriptlang for MineCraft
 
-🤖 **Discord Bot Development**: I enjoy creating Discord bots for servers, including utility bots, moderation bots, and modmail bots!
-
-🌐 **Web Development**: I am currently learning how to create websites using HTML and PHP.
-
 👨‍💻 **Minecraft Development**: I enjoy creating skripts for servers, and will be releasing a collection soon!
 
 ## Current Projects
